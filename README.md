@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋 I'm Yogeshwaran R! </h2>
+<h2 align="center"> Hi there 👋 I'm Sandeep J! </h2>
 
 
 - 🔭 I’m currently working on [My Projects](https://github.com/sanhax7?tab=repositories)
