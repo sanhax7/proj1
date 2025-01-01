@@ -1,0 +1,17 @@
+name: Push Trigger Workflow
+
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with your target branch if different
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Run a script
+        run: echo "Code has been pushed to the main branch!"
